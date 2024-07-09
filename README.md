@@ -15,6 +15,9 @@ I'm a full Data Scientist...
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VijayHarode&show_icons=true&locale=en" alt="VijayHarode" /></p>
+
+
 ## 🛠 Skills
 Python, Deep learning, Machine learning...
 
